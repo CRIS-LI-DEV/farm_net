@@ -1,0 +1,18 @@
+[{
+    "nombre" : "juan",
+    "puesto" :"programador",
+    "edad" : "22",
+    "trabajos" : null
+    
+    
+    }
+    ,
+    
+    {
+        "nombre" : "luisa",
+        "puesto" :"programador",
+        "edad" : "32",
+        "trabajos" : [{ "nombre" : "pega1" } , { "nombre" : "pega2" }]
+        
+        
+        }]

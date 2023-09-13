@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+@font-face {
+	font-family: 'a';
+	src: url("f1.ttf");
+}
+
+body {
+font-family: 'a';	
+background-image: url("granja.jpg");
+}
+
+#a{
+	
+	background: #EF870A;
+	border:2px solid  #EF870A;
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.8);
+	border-radius: 5px;
+}
+#b{
+	
+	
+	border:2px solid  #EF870A;
+	border-radius: 5px;
+}
